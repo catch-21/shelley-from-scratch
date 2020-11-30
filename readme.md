@@ -2,7 +2,7 @@
 ## Shelley blockchain from scratch
 
 - run-test-nodes.sh COUNT LOVELACE
-- query-protocolparams.sh NODE
+- query-protocol-params.sh NODE
 - query-genesis-utxo.sh NODE GENESIS_UTXO
 - initial_utxo_transaction.sh NODE GENESIS_UTXO LOVELACE TTL (outputs addresses into acct*.addr file)
 - query-utxo.sh NODE ADDR
